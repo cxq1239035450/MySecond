@@ -1,0 +1,1 @@
+const e={key:"v-707df2a7",path:"/requestNote/",title:"\u524D\u540E\u7AEF\u901A\u4FE1\u6280\u672F\u4ECB\u7ECD",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"requestNote/README.md"};export{e as data};
